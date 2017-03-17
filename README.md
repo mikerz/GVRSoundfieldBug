@@ -6,8 +6,14 @@ This repo demonstrates an issue with the GVRAudioSoundfield. It has been observe
 There are three scenes included, which all share this heirarchy:
 
 .
+
+
 +-- "Camera Container" GameObject
+
+
 |   +-- "Main Camera" GameObject
+
+
 +-- "Soundfield" GameObject
 
 # Object descriptions:
